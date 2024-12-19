@@ -11,9 +11,6 @@ struct ContentView: View {
             Text("Humanforce iOS Engineering Challenge")
                 .font(.title)
                 .multilineTextAlignment(.center)
-            Text("Refer to project README for requirements!")
-                .font(.caption)
-                .multilineTextAlignment(.center)
         }
         .padding()
     }
